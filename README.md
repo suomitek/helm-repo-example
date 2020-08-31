@@ -1,8 +1,10 @@
 # helm-repo-example
 helm-repo-example
 
+```
 helm package mychart
 helm repo index .
+```
 
 ```
 git clone https://github.com/FeynmanZhou/helm-repo-example
